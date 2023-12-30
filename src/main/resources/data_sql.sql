@@ -1,3 +1,3 @@
-INSERT INTO article(title, content) VALUES('11111', 'aaaaaa')
-INSERT INTO article(title, content) VALUES('22222', 'bbbbbb')
-INSERT INTO article(title, content) VALUES('33333', 'cccccc')
+INSERT INTO article(title, content) VALUES(1, '11111', 'aaaaaa');
+INSERT INTO article(title, content) VALUES(2, '22222', 'bbbbbb');
+INSERT INTO article(title, content) VALUES(3, '33333', 'cccccc');

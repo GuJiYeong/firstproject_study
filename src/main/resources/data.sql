@@ -1,6 +1,6 @@
 INSERT INTO ARTICLE(id, title, content)
-VALUES (1, '11111', 'aaaaaa');
+VALUES (1, '가가가가', '1111');
 INSERT INTO ARTICLE(id, title, content)
-VALUES (2, '22222', 'bbbbbb');
+VALUES (2, '나나나나', '2222');
 INSERT INTO ARTICLE(id, title, content)
-VALUES (3, '33333', 'cccccc');
+VALUES (3, '다다다다', '3333');
